@@ -1,10 +1,14 @@
 # Cover Letter Generator with Llama 2
 
+![Capture d’écran 2023-09-30 164959](https://github.com/khames-lab/cover_letter_generator/assets/77197337/c93415a2-9433-4e89-bbd2-8e07e4f9514a)
+
 This application allows you to generate a cover letter for a job application using the Llama 2 language model. 
 
 The Llama 2 model used in this tutorial is hosted on the Replicate platform
 
 Simply provide the necessary details, such as your name, company name, job title, and a job description, and let the AI generate a cover letter for you.
+
+![Capture d’écran 2023-09-30 165320](https://github.com/khames-lab/cover_letter_generator/assets/77197337/d70849e8-91f5-443f-8f91-8de3c472cc58)
 
 ## Getting Started
 
