@@ -32,5 +32,5 @@ streamlit run your_script_name.py
 
 5. You can download the generated cover letter as a text file using the "Download Cover Letter as TXT" button.
 
-##Credits
+## Credits
 This Cover Letter Generator utilizes the Llama 2 language model from Replicate.
