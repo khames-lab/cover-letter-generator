@@ -1,4 +1,4 @@
-# Cover Letter Generator with Llama 2
+# Cover letter generator using Llama2 and streamlit
 
 ![Capture d’écran 2023-09-30 164959](https://github.com/khames-lab/cover_letter_generator/assets/77197337/c93415a2-9433-4e89-bbd2-8e07e4f9514a)
 
